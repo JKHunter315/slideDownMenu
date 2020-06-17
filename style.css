@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+nav {
+    padding: .5em;
+    width: 40em;
+    display: flex;
+}
+
+.menu {
+    margin-left: 3em;
+}
+
+h1 {
+    font-size: 3em;
+    background-color: black;
+    color: white;
+    padding: .5em;
+}
+
+h1:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+h2 {
+    padding: .3em;
+}
+
+li {
+    text-decoration: none;
+}
+
+.dropdown {
+    background-color: black;
+    color: white;
+    margin-top: -3em;
+    padding: .5em;
+    height: 0;
+}
+
+
